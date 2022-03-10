@@ -171,7 +171,7 @@ Pirate
         <tr>
           <td valign="middle" align="center">
             <div class="GENXHwxNewStyle">
-              <div class="OTDRHwxNewStyle"><a href="http://72.204.51.195:81/weather.html"><img alt="" src="index_files/inmaSIRAR_.gif" style="border: 0px solid ; width: 374px; height: 311px;"></a></div>
+              <div class="OTDRHwxNewStyle"><a href="http://72.204.51.195:81/weather.html"><img alt="" src="http://sirocco.accuweather.com/nx_mosaic_400x300c/SIR/inmaSIRAR_.gif" style="border: 0px solid ; width: 374px; height: 311px;"></a></div>
             </div>
             <br>
           </td>
